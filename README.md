@@ -3,7 +3,6 @@ Weekly billing calculation for labor outsourcing company
 
 ## Overview
 This script automates the integration of attendance and payroll data for HR reporting. It encompasses several key functions, including data transformation, merging, and calculation.
-
 Data Transformation and Renaming: Converts date formats, renames columns for clarity, and maps location codes.
 Integration by Day of the Week: Pivots attendance data to analyze hours worked each day of the week and calculates weekly totals.
 Invoice Data Transformation: Standardizes payroll invoice data, calculates rates, and amounts considering markup rates.
