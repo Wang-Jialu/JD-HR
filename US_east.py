@@ -79,7 +79,7 @@ def add_totals(input_df):
 def main():
 
     # Specify the building
-    building = 'NJ2'
+    building = '' # (e.g., 'NJ1')
     # Read the attendance spreadsheet
     attendance = pd.read_excel(r"path\to\attendance.xlsx")  # Please replace "path\to\attendance.xlsx" with the actual path to the attendance spreadsheet
     # Read the pay rate spreadsheet
