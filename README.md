@@ -26,5 +26,5 @@ Utilize Google Colab for seamless execution of the script without the need for d
 US East: [Colab Notebook Link](https://colab.research.google.com/drive/1si7ckvqH-zMf4Y_rXo53wL5qoDB57drN?usp=sharing)  
 US West: [Colab Notebook Link](https://colab.research.google.com/drive/1HshjH2X15EfsJZV6iVHGpCVftKcPgI4F?usp=sharing)  
 US West (OT2): [Colab Notebook Link](https://colab.research.google.com/drive/13YsAFqvTXq5iNI4ddzQxsOsjMwjQ26MR#scrollTo=-vmIJkxvFQhh)
-
+US East (updated): [Colab Notebook Link](https://colab.research.google.com/drive/1qR6sIiSnpNRkUXCU_USY4CfKpzM0hTfm#scrollTo=CWQ3ilnJsxsO)
 
